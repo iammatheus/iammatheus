@@ -1,7 +1,8 @@
 ## Matheus Ferreira
 
-![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Ferreira-0897bf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfsiqueira/)
-![Outlook Badge](https://img.shields.io/badge/-matheus.ferreira9@hotmail.com-0897bf?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.ferreira9@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=f71489&link=https://www.linkedin.com/in/matheusfsiqueira/)](https://www.linkedin.com/in/matheusfsiqueira/)
+
+[![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=f71489&link=mailto:matheus.ferreira9@hotmail.com)](mailto:matheus.ferreira9@hotmail.com)
 
 My name is Matheus Ferreira and i'm 22 years old. I'm majoring in Analysis and Systems Development and i'm currently study web developement. 👨🏼‍🎓
 
