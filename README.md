@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Ferreira-ad0c5a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfsiqueira/)](https://www.linkedin.com/in/matheusfsiqueira/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheus.ferreira9@hotmail.com-ad0c5a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.ferreira9@hotmail.com)](mailto:matheus.ferreira9@hotmail.com)
 
- * My name is Matheus Ferreira and i'm 22 years old. I'm majoring in Analysis and Systems Development and i'm currently study web developement. 👨🏼‍🎓
+My name is Matheus Ferreira and i'm 22 years old. I'm majoring in Analysis and Systems Development and i'm currently study web developement. 👨🏼‍🎓
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
