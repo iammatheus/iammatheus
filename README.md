@@ -21,6 +21,6 @@ Meu nome é Matheus Ferreira e tenho 22 anos. Estou me formando em Análise e De
 
 ![Matheus Ferreira's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iammatheus&layout=compact&&theme=radical)
 
-## Trabalhos 
+## Trabalhos 💻
 
  * Atualmente estou desenvolvendo pequenos e grandes projetos em Frontend e Backend, com o objetivo de aprimorar minhas habilidades na área de desenvolvimento web. 📈
