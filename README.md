@@ -23,5 +23,5 @@ Meu nome é Matheus Ferreira e tenho 22 anos. Sou formado em Análise e Desenvol
 
 ## Trabalhos 💻
 
- * Atualmente estou trabalhando como desenvolvedor Fullstack .NET e Angular na empresa <a href="https://github.com/dimensaosistemas">Dimensão Sistemas.</a> 👨🏼‍💻
+ * Atualmente estou trabalhando como desenvolvedor Fullstack .NET e Angular na empresa <a href="https://github.com/dimensaosistemas">Dimensão Sistemas</a>. 👨🏼‍💻
  * Desenvolvo pequenos e grandes projetos com o objetivo de aprimorar ainda mais as minhas habilidades na área. 📈
