@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Ferreira-ad0c5a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfsiqueira/)](https://www.linkedin.com/in/matheusfsiqueira/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheus.ferreira9@hotmail.com-ad0c5a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.ferreira9@hotmail.com)](mailto:matheus.ferreira9@hotmail.com)
 
-Meu nome é Matheus Ferreira e tenho 22 anos. Sou formado em Análise e Desenvolvimento de Sistemas e estudo desenvolvimento web e outras áreas. 👨🏼‍🎓
+Meu nome é Matheus Ferreira e tenho 23 anos. Sou formado em Análise e Desenvolvimento de Sistemas e estudo desenvolvimento web e outras áreas. 👨🏼‍🎓
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
