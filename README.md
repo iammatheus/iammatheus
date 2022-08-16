@@ -3,23 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Ferreira-ad0c5a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfsiqueira/)](https://www.linkedin.com/in/matheusfsiqueira/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheus.ferreira9@hotmail.com-ad0c5a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.ferreira9@hotmail.com)](mailto:matheus.ferreira9@hotmail.com)
 
-Meu nome é Matheus Ferreira e tenho 23 anos. Sou formado em Análise e Desenvolvimento de Sistemas e estudo desenvolvimento web e outras áreas. 👨🏼‍🎓
+Olá! Meu nome é Matheus Ferreira, sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como Desenvolvedor Fullstack. 👨🏼‍🎓
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=iammatheus&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
-    />
-  </a>
-</p>
-
-## Eu gosto disso! 😍
-* Desenvolvimento Frontend e Backend
-* Design em geral
-
-![Matheus Ferreira's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iammatheus&layout=compact&&theme=radical)
+<div align="left">
+  <a href="https://github.com/iammatheus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iammatheus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammatheus&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ## Trabalhos 💻
 
