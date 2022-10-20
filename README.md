@@ -14,5 +14,5 @@ Olá! Meu nome é Matheus Ferreira, sou formado em Análise e Desenvolvimento de
 
 ## Trabalhos 💻
 
- * Atualmente estou trabalhando como desenvolvedor Fullstack .NET e Angular na empresa <a href="https://github.com/dimensaosistemas">Dimensão Sistemas</a>. 👨🏼‍💻
+ * Atualmente estou estudando mais sobre desenvolvimento web com C# e Angular. 👨🏼‍💻
  * Desenvolvo pequenos e grandes projetos com o objetivo de aprimorar ainda mais as minhas habilidades na área. 📈
