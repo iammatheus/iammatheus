@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Ferreira-ad0c5a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfsiqueira/)](https://www.linkedin.com/in/matheusfsiqueira/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheus.ferreira9@hotmail.com-ad0c5a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.ferreira9@hotmail.com)](mailto:matheus.ferreira9@hotmail.com)
 
-Olá! Meu nome é Matheus Ferreira, sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como Desenvolvedor Fullstack. 👨🏼‍🎓
+Olá! Meu nome é Matheus Ferreira, sou formado em Análise e Desenvolvimento de Sistemas. 👨🏼‍🎓
 
 <div align="left">
   <a href="https://github.com/iammatheus">
