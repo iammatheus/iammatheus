@@ -9,13 +9,6 @@ na construção de interfaces escaláveis e performáticas para sistemas corpora
 alto desempenho e grande volume de dados. Forte conhecimento em arquitetura de software,
 otimização de performance, inteligência artificial, moedas digitais e boas práticas de desenvolvimento.
 
-<div align="left">
-  <a href="https://github.com/iammatheus">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iammatheus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iammatheus&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
 ## Experiência Profissional 💻
 
  * Atualmente estou aprimorando minhas skills, com foco em React, cursando na plataforma Rocketseat. 👨🏼‍💻
